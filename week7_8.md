@@ -25,4 +25,7 @@ given you have an academic credit or have paid for credits:
 24. IMPORTANT: The "x" does not turn off the remote desktop computer, nor does signing out. If you are done using the VM, you must navigate to the VM instances page, click the three dots, and select "STOP". This will prevent you from using excess credits and wasting money.
 
 **SETTING UP A CONNECTION TO PUBLISH TO THE ARCGIS SERVER IN ARCGIS PRO**
-1. Since the external IP changes every time you shut down and start you
+1. Since the external IP changes every time you shut down and start your VM, you need to update the ArcGIS server connection in arcgis pro every time.
+2. for the server URL, you paste in your external IP. Should look something like: https://XX.XXX.XXX.XXX/arcgis. Username for this server was given by Shawn in the checklist for lab. Input whatever is relevant at the time of doing this.
+3. You don't want to save your log in since the external IP will change after you shut down your VM, so you can deselect Windows Credential Manager and Connection file, under Save Login. Click ok.
+4. Now you are connected to that arcgis server, and can publish content onto it. 
