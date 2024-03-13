@@ -28,4 +28,5 @@ given you have an academic credit or have paid for credits:
 1. Since the external IP changes every time you shut down and start your VM, you need to update the ArcGIS server connection in arcgis pro every time.
 2. for the server URL, you paste in your external IP. Should look something like: https://XX.XXX.XXX.XXX/arcgis. Username for this server was given by Shawn in the checklist for lab. Input whatever is relevant at the time of doing this.
 3. You don't want to save your log in since the external IP will change after you shut down your VM, so you can deselect Windows Credential Manager and Connection file, under Save Login. Click ok.
-4. Now you are connected to that arcgis server, and can publish content onto it. 
+4. Now you are connected to that arcgis server, and can publish content onto it.
+5. NOTE when adding the content on the server to the current map on arcgis pro, if you add the map service (with various map layers in it) as a whole, the map layers will get added a second time and will end up with broken data sources. So, keep an eye out for that.
