@@ -30,3 +30,5 @@ given you have an academic credit or have paid for credits:
 3. You don't want to save your log in since the external IP will change after you shut down your VM, so you can deselect Windows Credential Manager and Connection file, under Save Login. Click ok.
 4. Now you are connected to that arcgis server, and can publish content onto it.
 5. NOTE when adding the content on the server to the current map on arcgis pro, if you add the map service (with various map layers in it) as a whole, the map layers will get added a second time and will end up with broken data sources. So, keep an eye out for that.
+6. to publish a map service from arcgis server to arcgis online: add relevant contents from server to web map; set environments and projections (you will need a basemap or you will get an error when publishing web map); under share click web map; enter details and sharing level; analyze issues and fix any; then click share.
+7. NOTE: ensure under Project -> portal that you are signed in and connected to your arcgis online account.
