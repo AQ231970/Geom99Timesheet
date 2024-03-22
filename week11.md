@@ -4,3 +4,4 @@
 2. I began by downloading the arcgis pro project that comes with the solution. It has some road data, and address data
 3. i added my downloaded data (yet to clean it but i want to focus on trying out the arcgis solution for now)
 went back to portal to look for some road data to add - didnt realize how vital it would be for the solution, considering its for ng 911 response
+investigated thei sample data to understand how they have cleaned it, organized it in arcgis pro, etc., so that we may follow a similar route for cartographic output.
