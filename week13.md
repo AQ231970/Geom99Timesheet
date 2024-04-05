@@ -10,3 +10,6 @@
 - need to add a data-checking functionality to the survey database
 - 
 couldn't figure out the widgets (query widget, card widget, chart widget) -> watched this 11 min video on experience builder: [https://youtu.be/zQMBhtQOwwY?si=mtq5kJdiZWsRznOA](https://youtu.be/zQMBhtQOwwY?si=mtq5kJdiZWsRznOA)
+- query widget info: [https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/query-widget.htm](https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/query-widget.htm)
+- added queries and other relevant widgets
+- ![image](https://github.com/AQ231970/Geom99Timesheet/assets/119023891/07b2faed-a82a-4efc-843b-f5890ddfc1d3)
