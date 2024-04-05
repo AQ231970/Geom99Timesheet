@@ -13,4 +13,6 @@ couldn't figure out the widgets (query widget, card widget, chart widget) -> wat
 - query widget info: [https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/query-widget.htm](https://doc.arcgis.com/en/experience-builder/latest/configure-widgets/query-widget.htm)
 - added queries and other relevant widgets
 - ![image](https://github.com/AQ231970/Geom99Timesheet/assets/119023891/07b2faed-a82a-4efc-843b-f5890ddfc1d3)
+
+- note about query: make queries for users to select based on boundaries? street name attributes?
 - experience builder is ready for adding mengjie's official address form data!
