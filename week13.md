@@ -9,3 +9,4 @@
 ![image](https://github.com/AQ231970/Geom99Timesheet/assets/119023891/95d2a21d-6b86-472d-8c55-2be86de696e7)
 - need to add a data-checking functionality to the survey database
 - 
+couldn't figure out the widgets (query widget, card widget, chart widget) -> watched this 11 min video on experience builder: [https://youtu.be/zQMBhtQOwwY?si=mtq5kJdiZWsRznOA](https://youtu.be/zQMBhtQOwwY?si=mtq5kJdiZWsRznOA)
